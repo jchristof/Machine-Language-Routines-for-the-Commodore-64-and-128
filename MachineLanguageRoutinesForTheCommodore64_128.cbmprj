@@ -40,6 +40,7 @@
         <FileName>ADDBYT.asm</FileName>
         <FileName>ADDINT.asm</FileName>
         <FileName>ALPNTR.asm</FileName>
+        <FileName>EXPLOD.asm</FileName>
     </BuildList>
     <DetermineBuildOrder>0</DetermineBuildOrder>
     <PaddingByte>0</PaddingByte>
@@ -69,6 +70,17 @@
         </SourceFile>
         <SourceFile>
             <Name>ALPNTR.asm</Name>
+            <PrgName />
+            <FileType>2</FileType>
+            <IncludeInBuild>True</IncludeInBuild>
+            <Regions />
+            <Breakpoints />
+            <Bookmarks />
+            <Topmost>False</Topmost>
+            <FileOpen>True</FileOpen>
+        </SourceFile>
+        <SourceFile>
+            <Name>EXPLOD.asm</Name>
             <PrgName />
             <FileType>2</FileType>
             <IncludeInBuild>True</IncludeInBuild>

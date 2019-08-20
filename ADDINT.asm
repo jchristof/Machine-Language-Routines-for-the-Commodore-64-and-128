@@ -80,4 +80,3 @@ addint
         adc num1 + 1    ;add it
         sta num1 + 1    ;store it
         rts             ;done
-*=$1000
